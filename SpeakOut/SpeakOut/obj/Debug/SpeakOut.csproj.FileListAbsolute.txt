@@ -1,0 +1,13 @@
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\bin\Debug\SpeakOut.exe.config
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\bin\Debug\SpeakOut.exe
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\bin\Debug\SpeakOut.pdb
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\SpeakOut.csprojResolveAssemblyReference.cache
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\MainWindow.baml
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\MainWindow.g.cs
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\App.g.cs
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\SpeakOut_MarkupCompile.cache
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\SpeakOut.g.resources
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\SpeakOut.Properties.Resources.resources
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\SpeakOut.csproj.GenerateResource.Cache
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\SpeakOut.exe
+c:\users\sudipta\documents\visual studio 2012\Projects\SpeakOut\SpeakOut\obj\Debug\SpeakOut.pdb

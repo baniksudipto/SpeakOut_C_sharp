@@ -1,0 +1,14 @@
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\bin\Release\SpeakOut.exe.config
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\bin\Release\SpeakOut.exe
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\bin\Release\SpeakOut.pdb
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\MainWindow.baml
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\MainWindow.g.cs
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\App.g.cs
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\SpeakOut_MarkupCompile.cache
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\SpeakOut.g.resources
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\SpeakOut.Properties.Resources.resources
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\SpeakOut.csproj.GenerateResource.Cache
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\SpeakOut.exe
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\SpeakOut.pdb
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\obj\Release\SpeakOut.csprojResolveAssemblyReference.cache
+C:\Users\Sudipta\Documents\Visual Studio 2012\Projects\SpeakOut\SpeakOut\bin\Release\itextsharp.dll
