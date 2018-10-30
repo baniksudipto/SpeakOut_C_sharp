@@ -201,8 +201,6 @@ namespace SpeakOut
                 }
             }
             this.box_top.Text = text.ToString();
-            /*startInfo.FileName = ofd.FileName;
-            pr.Start();*/
         }
 
         private void Reset_Click(object sender, RoutedEventArgs e)
